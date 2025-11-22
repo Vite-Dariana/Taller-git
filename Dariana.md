@@ -1,13 +1,3 @@
-# Titulo 1
-## Titulo 2
-### Subitulo 3
-
-```js
-
-consolole.log("Hola GIT");
-```
--JavaScript
-**negrita** y *cursiva*
 
 # Ejercicio
 
